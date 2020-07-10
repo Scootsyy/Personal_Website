@@ -1,0 +1,125 @@
+.block{
+  background-color: black;
+  opacity: .7;
+  padding: 10px;
+  width:50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+}
+.nav-pills{
+  font-size: 1.7em;
+    opacity: .7;
+  color:white;
+  background-color: black;
+  margin-bottom:10%;
+}
+
+#navbar a {
+    color:white;
+}
+
+#p4 a {
+    color:white;
+
+}
+
+.content {
+    padding: 16px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 60px;
+}
+
+.container-fluid{
+  margin-left: -20px;
+  margin-right: -20px;
+}
+body{
+  font-family: Lobster;
+  background-color: white;
+  color:white;
+}
+
+h1{
+  padding: 0;
+  margin-top: 0px;
+  font-size: 7.0em;
+}
+
+.btn-default{
+  background-color: black;
+  border-color:white;
+  color:white;
+  font-size: 1.7em;
+}
+.pageOne{
+  background:url("https://images.unsplash.com/photo-1437652633673-cc02b9c67a1b?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=&bg=)");
+  background-size:cover;
+  padding-bottom: 10%;
+    padding-top: 10%;
+}
+.pageTwo{
+  background:url("https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?dpr=1&auto=compress,format&fit=crop&w=1199&h=800&q=80&cs=tinysrgb&crop=&bg=");
+  background-size:cover;
+  padding-bottom:5%;
+  padding-top:5%;
+}
+.pageThree{
+  background:url("https://images.unsplash.com/photo-1583835401881-69a874a3b342?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80");
+  background-size:cover;
+  height:1200px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.pageFour{
+  background:url("https://images.unsplash.com/photo-1576158831003-d41033ec31fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  background-size:cover;
+  padding-top: 5%;
+}
+
+p{
+  font-size: 2.2em;
+}
+
+.me{
+  height:400px;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:50%;
+}
+
+#githubicon{
+  color: rgb(102, 43, 129);
+}
+
+#linkedinicon{
+  color: rgb(0, 127, 178);
+}
+
+.paddingTop{
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
+.paddingBTN{
+  width:200px;
+  margin-bottom:25px;
+}
+
+.footer{
+  background-color:black;
+  height: 50px;
+}
+
+
+a:link{
+    color: aqua;
+}
