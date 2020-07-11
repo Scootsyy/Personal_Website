@@ -33,3 +33,12 @@ Source: https://stackoverflow.com/questions/16943825/css-how-to-change-opacity-o
 
 5:15 AM July 11 2020
 Fixed Github and Linkedin button text color on page 1. Had to assign ID to page one, then assign text color property to the ID.
+
+5:17 AM July 11 2020
+Next things to fix:
+*Everything contained in Bootstrap columns has priority on Z-Axis. Example: Profile pic and about me are in front of navbar when scrolling. Same with reserved columns for embedding projects.
+*Does font in about me section hard to read?
+*Make text more responsive
+*Make sure website is responsive for different platforms
+*Make logo for tab
+*
