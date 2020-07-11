@@ -25,3 +25,8 @@ I used row within the pageTwo and pageThree classes I made in my CSS. Adding the
 }
 CODE***
 Source:https://stackoverflow.com/questions/25808485/bootstrap-3-row-too-wide-giving-horizontal-scrollbar
+
+
+4:23 AM July 11 2020
+Fixed the transparency of Navbar without affecting text link transparancy. Was able to do this through utilitizing background-color and rgba in CSS.
+Source: https://stackoverflow.com/questions/16943825/css-how-to-change-opacity-of-container-but-not-text
