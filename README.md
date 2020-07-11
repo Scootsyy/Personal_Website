@@ -24,4 +24,4 @@ I used row within the pageTwo and pageThree classes I made in my CSS. Adding the
     margin-right: 0px;
 }
 CODE***
-
+Source:https://stackoverflow.com/questions/25808485/bootstrap-3-row-too-wide-giving-horizontal-scrollbar
