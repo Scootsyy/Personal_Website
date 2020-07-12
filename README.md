@@ -55,3 +55,6 @@ Added an image link to the git repository for the portfolio website.
 
 2:53 AM July 12 2020
 May have found out how to set the pageOne div as a video background to give the site a more modern look. Going to focus on applying the block class to the pageFour container first. W3 Schools has an interesting page for embedding videos: https://www.w3schools.com/howto/howto_css_fullscreen_video.asp and there are free stock videos available at https://www.pexels.com/videos/
+
+5:11 AM July 12, 2020
+Removed Contact page and moved that information to footer. The footer had links that were already in the navbar so this cuts down on clutter within page. There was white space at the bottom of the footer but that was fixed temporarily by changing footer height from 50px to 60px. Currently working on creating a table to contain education and work experience information on page 1. Also trying to figure out how to have block class work behind the table and paragraph elements.
