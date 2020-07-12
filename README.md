@@ -52,3 +52,6 @@ Fixed white space at bottom of webpage. Was caused by an ending to a comment tha
 
 2:29 AM July 12 2020
 Added an image link to the git repository for the portfolio website.
+
+2:53 AM July 12 2020
+May have found out how to set the pageOne div as a video background to give the site a more modern look. Going to focus on applying the block class to the pageFour container first. W3 Schools has an interesting page for embedding videos: https://www.w3schools.com/howto/howto_css_fullscreen_video.asp and there are free stock videos available at https://www.pexels.com/videos/
