@@ -49,3 +49,6 @@ Fixed an issue regarding items in Bootstrap column elements taking Z-index prior
 
 1:49 AM July 12 2020
 Fixed white space at bottom of webpage. Was caused by an ending to a comment that I forgot to remove.
+
+2:29 AM July 12 2020
+Added an image link to the git repository for the portfolio website.
