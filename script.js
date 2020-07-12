@@ -1,3 +1,5 @@
+//I found the code for a sticky toolbar from W3 schools. It seems to work really well! - Ethan
+
 // When the user scrolls the page, execute myFunction
 window.onscroll = function() {myFunction()};
 
