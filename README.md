@@ -42,3 +42,8 @@ Next things to fix:
 *Make sure website is responsive for different platforms
 *Make logo for tab
 *
+
+1:45 AM July 12 2020
+Fixed an issue regarding items in Bootstrap column elements taking Z-index priority over the navigation bar. This was fixed by applying a Z-index of 1 to the .sticky class in the CSS and a Z-index of 0 to a newly created .row class in the CSS file. In order for the Z-index attribute to work, a position must also be stated. The .sticky class already had position: sticky. I gave the row class position: relative.
+
+
