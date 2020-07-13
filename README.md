@@ -77,4 +77,5 @@ Figured out why the Github and LinkedIn icons at bottom are over white space on 
 12:21 PM July 13, 2020
 Was able to fix the issue of the columns stacking. Changed the attribute within the bootstrap columns from MD to XS so that they stayed next to each other rather than stacking when contained in a smaller view.*"With bootstrap you want to develop using the smallest device in mind first. This means to use xs on your columns. If you change md to xs your columns should no longer wrap on a smaller device:"* source:https://stackoverflow.com/questions/41943463/prevent-wrapping-stacking-of-columns-in-bootstrap-when-shrinking-the-size
 
-
+12:26 Pm July 13, 2020
+Was able to remove initial white space when webpage first loads. After page loads, but before clicking the page, there was a substantial amount of white space between the navbar and the content of the webpage. Upon clicking the webpage and scrolling, the navbar would snap to the correct position overlaying the content of the webpage. Was able to fix this by removing the margin-bottom from the .nav-pills class in the CSS.
