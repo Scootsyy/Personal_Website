@@ -37,7 +37,7 @@ Fixed Github and Linkedin button text color on page 1. Had to assign ID to page 
 5:17 AM July 11 2020
 Next things to fix:
 *Everything contained in Bootstrap columns has priority on Z-Axis. Example: Profile pic and about me are in front of navbar when scrolling. Same with reserved columns for embedding projects.
-*Does font in about me section hard to read?
+*sI font in about me section hard to read?
 *Make text more responsive
 *Make sure website is responsive for different platforms
 *Make logo for tab
@@ -58,3 +58,15 @@ May have found out how to set the pageOne div as a video background to give the 
 
 5:11 AM July 12, 2020
 Removed Contact page and moved that information to footer. The footer had links that were already in the navbar so this cuts down on clutter within page. There was white space at the bottom of the footer but that was fixed temporarily by changing footer height from 50px to 60px. Currently working on creating a table to contain education and work experience information on page 1. Also trying to figure out how to have block class work behind the table and paragraph elements.
+
+5:46 AM July 12, 2020
+Successfully put the block behind the About me text and table. Not sure what I changed to make it work. 
+Next things to fix:
+*Make sure website is responsive for different platforms
+*Make logo for tab
+*Insert video on first page
+*There was white space at the bottom of the footer but that was fixed temporarily by changing footer height from 50px to 60px. Figute out better way to fix this.
+
+
+11:19 AM July 13, 2020
+Fixed the profile picture touching the about me section block when in mobile view by adding a <br> element in the html. I think there is a better way to do this by adding padding to a css element but I can't figure out how to get it to work.
