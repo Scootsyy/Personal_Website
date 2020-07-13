@@ -69,4 +69,7 @@ Next things to fix:
 
 
 11:19 AM July 13, 2020
-Fixed the profile picture touching the about me section block when in mobile view by adding a <br> element in the html. I think there is a better way to do this by adding padding to a css element but I can't figure out how to get it to work.
+Fixed the profile picture touching the about me section block when in mobile view by adding a <br> element in the html. I think there is a better way to do this by adding padding to a css element but I can't figure out how to get it to work
+
+11:24 AM July 13, 2020
+Figured out why the Github and LinkedIn icons at bottom are over white space on mobile view. The columns are stacking on top of eachother rather than side by side.
