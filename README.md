@@ -79,3 +79,7 @@ Was able to fix the issue of the columns stacking. Changed the attribute within 
 
 12:26 Pm July 13, 2020
 Was able to remove initial white space when webpage first loads. After page loads, but before clicking the page, there was a substantial amount of white space between the navbar and the content of the webpage. Upon clicking the webpage and scrolling, the navbar would snap to the correct position overlaying the content of the webpage. Was able to fix this by removing the margin-bottom from the .nav-pills class in the CSS.
+
+1:55 PM July 13, 2020
+Was able to make the page one div background a video. Still having issues with making the video responsive and making the video fit the div. Used a combination of two sources:
+https://stackoverflow.com/questions/20818881/use-video-as-background-for-div and https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
